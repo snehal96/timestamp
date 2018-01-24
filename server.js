@@ -34,7 +34,7 @@ app.get('/:id', function(req,res){
 	    	 "date": date,
 	    	  "unix": unix
     	}
-    res.render('ans',ans);
+        res.render('ans',ans);
 
     	}
 });
