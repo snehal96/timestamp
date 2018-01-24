@@ -1,0 +1,27 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "timestamp-microservice-fcc-challenge",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dateformat": "^3.0.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "moment": "^2.20.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snehal96/timestamp.git"
+  },
+  "author": "snehal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snehal96/timestamp/issues"
+  },
+  "homepage": "https://github.com/snehal96/timestamp#readme"
+}
